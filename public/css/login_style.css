@@ -1,17 +1,13 @@
-@use cssnext;
 
 /* config.css */
 
 .logo {
-    max-width: 60%;
-    max-height: 60%;
-    margin-left: 25%;
+    max-width: 80%;
+    max-height: 80%;
+    margin-left: 16%;
     margin-bottom: 10%;
 }
 
-.login_box {
-    background: #;
-}
 :root {
     --baseColor: #606468;
 }

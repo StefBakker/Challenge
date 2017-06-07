@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $('#slidercontent').delay(1000).slideDown(1000);
+    $('#slidercontent').delay(400).slideDown(750);
 });

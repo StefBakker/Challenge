@@ -10,6 +10,7 @@ session_start(); // Right at the top of your script
         <li><a href="#">Info</a></li>
         <li><a href="#">Work</a></li>
         <li><a href="#">Blog</a></li>
+        <li><a href="#">Teacher Panel</a></li>
     </ul>
 </nav>
 <main id="container">
